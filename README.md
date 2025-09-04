@@ -1,3 +1,3 @@
 ## Hi there 👋
 ### I'm Julia...
-and I'm seeking knowledge rn.
+and I'm just seeking knowledge rn.
