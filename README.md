@@ -1,3 +1,3 @@
 ## Hi there 👋
 ### I'm Julia...
-I enrolled in a tech course seeking growth and ended up becoming PO of a mental health project we call "BalanceMind", besides working and existing.
+I enrolled in a tech course seeking growth and ended up becoming PO of a mental health project, besides working and existing itself.
